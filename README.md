@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# 🎈 uber_pickups.py
 
 A simple Streamlit app template for you to modify!
 
